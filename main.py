@@ -9,6 +9,6 @@ def find_anagram(word, anagram):
 
     return word == anagram
 
-    
+
 print(find_anagram ("hello", "check"))
 print(find_anagram ("below", "elbow"))
